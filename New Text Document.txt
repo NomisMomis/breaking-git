@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 yo what up now im about to go boom
+=======
+yo what up now imma bee
+>>>>>>> 029574dd9d713825f521d6b870faea1d554d3c84
